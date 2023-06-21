@@ -1,9 +1,6 @@
 # Capstone-2_Regression_Project
-Yes Bank stock closing price prediction 
-![image](https://user-images.githubusercontent.com/120714922/227891206-a6772957-b8ce-43e9-bfb4-2e956a058292.png)
-
-# Capstone2-
-# YesBank stock closing price prediction 
+# Yes Bank stock closing price prediction 
+![image](https://user-images.githubusercontent.com/120714922/227891206-a6772957-b8ce-43e9-bfb4-2e956a058292.png) 
 
 # PROBLEM STATEMENT
 
